@@ -19,6 +19,12 @@
   [![My Skills](https://skillicons.dev/icons?i=js,ts,react,django,postgres)](https://skillicons.dev)
 
 ###
+<h2 align="left"> Skills</h2>
+
+###
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,d3,react,py,redis,bash,sass,c,cpp,django,postgres,mysql,ps&perline=5)](https://skillicons.dev)
+
+###
 
 <h2 align="left">📊 Github Stats</h2>
 
