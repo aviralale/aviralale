@@ -16,10 +16,7 @@
 <h2 align="left">💻 Tech Stack</h2>
 
 ###
-
-<div align="left">
   [![My Skills](https://skillicons.dev/icons?i=js,ts,react,django,postgres)](https://skillicons.dev)
-</div>
 
 ###
 
